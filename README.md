@@ -25,5 +25,5 @@ This project is designed as a beginner‑friendly exercise in **dictionaries, in
 ## 📄 Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stock-portfolio-tracker.git
+   git clone https://github.com/teja-sri21/CodeAlpha-Stock-portfolio-tracker.git
    cd stock-portfolio-tracker
